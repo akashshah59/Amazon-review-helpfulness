@@ -3,7 +3,7 @@ Amazon review helpfulness prediction using Machine Learning.
 
 Given product reviews by multiple user the task was to give a number to how many upvotes the review would get. The model was trained on around 175k rows after multiple experiments and we achieved a final mean absolute error of around 0.17.
 
-The repository contains
+The repository contains the following - 
 
 - Project Description
 - Baseline code
